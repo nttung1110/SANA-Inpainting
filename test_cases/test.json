@@ -1,0 +1,38 @@
+[
+    {
+        "img_path": "./test_cases/images/apples.jpeg",
+        "src_prompt": "A basket of apples",
+        "edit_prompt": "A basket of oranges",
+        "mask_path": "./test_cases/masks/apples.png"
+    },
+    {
+        "img_path": "./test_cases/images/apples.jpeg",
+        "src_prompt": "A basket of apples",
+        "edit_prompt": "A basket of durians",
+        "mask_path": "./test_cases/masks/apples.png"
+    },
+    {
+        "img_path": "./test_cases/images/bear3.jpeg",
+        "src_prompt": "A photo of a bear on grass field",
+        "edit_prompt": "A photo of a dog on grass field",
+        "mask_path": "./test_cases/masks/bear3.png"
+    },
+    {
+        "img_path": "./test_cases/images/vase_01.jpeg",
+        "src_prompt": "A vase of flowers",
+        "edit_prompt": "A vase of roses",
+        "mask_path": "./test_cases/masks/flower.png"
+    },
+    {
+        "img_path": "./test_cases/images/vase_01.jpeg",
+        "src_prompt": "A vase of flowers",
+        "edit_prompt": "A vase of roses",
+        "mask_path": "./test_cases/masks/flower.png"
+    },
+    {
+        "img_path": "./test_cases/images/goat_and_cat.jpg",
+        "src_prompt": "A photo of goat and cat",
+        "edit_prompt": "A photo of goat and dog",
+        "mask_path": "./test_cases/masks/goat_mask.png"
+    }
+]

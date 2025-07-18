@@ -1,0 +1,114 @@
+[
+    {
+        "img_path": "./test_cases/images/apples.jpeg",
+        "src_prompt": "A basket of apples",
+        "edit_prompt": "A basket of oranges",
+        "index": 3,
+        "obj_token": "apples",
+        "mask_path": "./test_cases/masks/apples.png"
+    },
+    {
+        "img_path": "./test_cases/images/apples.jpeg",
+        "src_prompt": "A basket of apples",
+        "edit_prompt": "A basket of durians",
+        "index": 3,
+        "obj_token": "durians",
+        "mask_path": "./test_cases/masks/apples.png"
+    },
+    {
+        "img_path": "./test_cases/images/bear3.jpeg",
+        "src_prompt": "A photo of a bear on grass field",
+        "edit_prompt": "A photo of a dog on grass field",
+        "index": 4,
+        "obj_token": "bear",
+        "mask_path": "./test_cases/masks/bear3.png"
+    },
+    {
+        "img_path": "./test_cases/images/bear3.jpeg",
+        "src_prompt": "A photo of a bear on grass field",
+        "edit_prompt": "A photo of a cat on grass field",
+        "index": 4,
+        "obj_token": "bear",
+        "mask_path": "./test_cases/masks/bear3.png"
+    },
+    {
+        "img_path": "./test_cases/images/bear3.jpeg",
+        "src_prompt": "A photo of a bear on grass field",
+        "edit_prompt": "A photo of a pig on grass field",
+        "index": 4,
+        "obj_token": "bear",
+        "mask_path": "./test_cases/masks/bear3.png"
+    },
+    {
+        "img_path": "./test_cases/images/dog2_standing.png",
+        "src_prompt": "A photo of a dog standing on grass field",
+        "edit_prompt": "A photo of a cat standing on grass field",
+        "index": 4,
+        "obj_token": "dog",
+        "mask_path": "./test_cases/masks/dog2_standing.png"
+    },
+    {
+        "img_path": "./test_cases/images/dog_with_shirt.jpg",
+        "src_prompt": "A dog wearing denim jacket",
+        "edit_prompt": "A cat wearing denim jacket",
+        "index": 6,
+        "obj_token": "dog",
+        "mask_path": "./test_cases/masks/dog_to_cat_with_shirt.png"
+    },
+    {
+        "img_path": "./test_cases/images/dog_with_shirt.jpg",
+        "src_prompt": "A dog wearing denim jacket",
+        "edit_prompt": "A giraffe wearing denim jacket",
+        "index": 6,
+        "obj_token": "dog",
+        "mask_path": "./test_cases/masks/dog_to_cat_with_shirt.png"
+    },
+    {
+        "img_path": "./test_cases/images/vase_01.jpeg",
+        "src_prompt": "A vase of flowers",
+        "edit_prompt": "A vase of roses",
+        "index": 6,
+        "obj_token": "flower",
+        "mask_path": "./test_cases/masks/flower.png"
+    },
+    {
+        "img_path": "./test_cases/images/vase_01.jpeg",
+        "src_prompt": "A vase of flowers",
+        "edit_prompt": "A vase of pens",
+        "index": 6,
+        "obj_token": "flower",
+        "mask_path": "./test_cases/masks/flower.png"
+    },
+    {
+        "img_path": "./test_cases/images/goat_and_cat.jpg",
+        "src_prompt": "A photo of goat and cat",
+        "edit_prompt": "A photo of dog and cat",
+        "index": 6,
+        "obj_token": "goat",
+        "mask_path": "./test_cases/masks/goat_mask.png"
+    },
+    {
+        "img_path": "./test_cases/images/goat_and_cat.jpg",
+        "src_prompt": "A photo of goat and cat",
+        "edit_prompt": "A photo of cats",
+        "index": 6,
+        "obj_token": "goat",
+        "mask_path": "./test_cases/masks/goat_mask.png"
+    },
+    {
+        "img_path": "./test_cases/images/red_car.jpeg",
+        "src_prompt": "A photo of a car on street",
+        "edit_prompt": "A photo of a bicycle on street",
+        "index": 5,
+        "obj_token": "car",
+        "mask_path": "./test_cases/masks/red_car.png"
+    },
+    {
+        "img_path": "./test_cases/images/red_car.jpeg",
+        "src_prompt": "A photo of a car on street",
+        "edit_prompt": "A photo of a elephant on street",
+        "index": 5,
+        "obj_token": "car",
+        "mask_path": "./test_cases/masks/red_car.png"
+    }
+]
